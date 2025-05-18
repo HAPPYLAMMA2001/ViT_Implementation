@@ -42,7 +42,7 @@ The Vision Transformer implementation includes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ViT_Implementation.git
+git clone https://github.com/HAPPYLAMMA2001/ViT_Implementation.git
 cd ViT_Implementation
 
 # Install dependencies
