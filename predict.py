@@ -39,6 +39,6 @@ def predict_image(file_path, config):
 # Example usage
 if __name__ == "__main__":
     config = get_config()
-    file_path = r"C:\Users\shami\Downloads\frog.jpeg" # Replace with the path to your image
+    file_path = r"path/to/img" # Replace with the path to your image
     label = predict_image(file_path, config)
     print(f"Predicted Label: {label}")
